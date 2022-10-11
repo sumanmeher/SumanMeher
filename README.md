@@ -1,5 +1,6 @@
 <h1 align="center">Hi there👋, I'm Suman Meher</h1>
 
+<img align= "right" width= "250" src= "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"/>
 # 💫 About Me:
 🔭 I’m currently working on Dynamic Portfolio Website<br>👯 I’m looking to collaborate on Full Stack Projects<br>🤝 I’m looking for help with React and DSA<br>🌱 I’m currently learning Salesforce<br>💬 Ask me about Java<br>⚡ Fun fact I don't know
 
