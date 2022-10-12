@@ -4,7 +4,7 @@
 
 ## 💫 About Me:
 
-<img align= "right" width= "250" src= "https://im.ezgif.com/tmp/ezgif-1-996bd855c7.gif"/>
+<img align= "right" width= "250" src= "https://i.imgur.com/uWRWCwl.gif"/>
 
 🔭 I’m currently working on Dynamic Portfolio Website<br>👯 I’m looking to collaborate on Full Stack Projects<br>🤝 I’m looking for help with React and DSA<br>🌱 I’m currently learning Salesforce<br>💬 Ask me about Java<br>⚡ Fun fact I don't know
 
