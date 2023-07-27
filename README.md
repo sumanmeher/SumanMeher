@@ -31,4 +31,4 @@ https://trailblazer.me/id/smeher2021
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sumanmeher&theme=dark&hide_border=false)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sumanmeher&icon=0&color=9)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=sumanmeher&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
