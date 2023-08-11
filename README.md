@@ -6,7 +6,7 @@
 
 <img align= "right" width= "250" src= "https://i.imgur.com/uWRWCwl.gif"/>
 
-🔭 I’m currently working on Dynamic Portfolio Website<br>👯 I’m looking to collaborate on Full Stack Projects<br>🤝 I’m looking for help with React and DSA<br>🌱 I’m currently learning Salesforce<br>💬 Ask me about Java<br>⚡ Fun fact I don't know
+🔭 I’m currently working at Digit Insurance<br>👯 I’m looking to collaborate on Full Stack Projects<br>🤝 I’m looking for help with Backend technologies<br>🌱 I’m currently learning SpringBoot<br>💬 Ask me about Java<br>⚡ Fun fact I don't know
 
 
 
