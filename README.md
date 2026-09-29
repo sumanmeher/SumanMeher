@@ -38,7 +38,7 @@ I'm a **Senior Software Engineer** based in Bengaluru with 3.5+ years of experie
 
 **Backend & Core**
 <br/>
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 
 **Databases & Messaging**
 <br/>
@@ -48,24 +48,12 @@ I'm a **Senior Software Engineer** based in Bengaluru with 3.5+ years of experie
 <br/>
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge&logo=Dynatrace&logoColor=white)
 
-<br/>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sumanmeher&theme=radical&no-frame=true&row=1&column=7&margin-w=15" alt="Trophies" />
-  </a>
-</p>
-
-<br/>
 
 ## 🚀 Featured Work
 
 ### Popcorn Time (Highly Concurrent Movie Booking Backend)
-
 A scalable RESTful backend system managing complex domains like theatres, movie shows, and user bookings.
-
 - **Concurrency Management:** Solved critical double-booking race conditions during high-traffic checkouts by implementing distributed locking mechanisms using **Redis**.
 - **Asynchronous Processing:** Decoupled email notification workflows from the main thread using **RabbitMQ** message queues, significantly reducing API latency.
 - **Tech:** Java, Spring Boot, PostgreSQL, Redis, RabbitMQ, Spring Security, JWT, Docker
@@ -74,11 +62,4 @@ A scalable RESTful backend system managing complex domains like theatres, movie 
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumanmeher&show_icons=true&theme=radical&hide_border=true" alt="Suman's GitHub stats" height="192px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumanmeher&theme=radical&hide_border=true" alt="GitHub Streak" height="192px"/>
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumanmeher&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sumanmeher&theme=radical&hide_border=true)
