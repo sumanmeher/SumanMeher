@@ -1,30 +1,84 @@
-<h1 align="center">Hi there👋, I'm Suman Meher</h1>
+<h1 align="center">Hi there 👋, I'm Suman Meher</h1>
 
+<p align="center">
+  <a href="https://github.com/sumanmeher">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer;Java,+Spring+Boot+%26+Microservices;Backend+Systems+Expert" alt="Typing SVG" />
+  </a>
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sumanmeher&label=Profile%20Views&color=2196F3&style=for-the-badge" alt="Profile Views" />
+</p>
 
-## 💫 About Me:
+<p align="center">
+  <a href="https://www.linkedin.com/in/suman-meher-91a6491b0/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:sumanmeher.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-<img align= "right" width= "250" src= "https://i.imgur.com/uWRWCwl.gif"/>
+<img align="right" width="350" src="https://i.imgur.com/uWRWCwl.gif" alt="coding animation" />
 
-🔭 I’m currently working at Digit Insurance<br>👯 I’m looking to collaborate on Full Stack Projects<br>🤝 I’m looking for help with Backend technologies<br>🌱 I’m currently learning SpringBoot<br>💬 Ask me about Java<br>⚡ Fun fact I don't know
+## 💫 About Me
 
+I'm a **Senior Software Engineer** based in Bengaluru with 3.5+ years of experience designing and building scalable backend systems using **Java, Spring Boot, and Microservices**. I'm passionate about clean architecture, distributed systems, and performance optimization.
 
+- 🔭 I’m currently working as a **Senior Software Engineer at Digit Insurance**
+- 🏗️ I have expertise in building high-throughput RESTful APIs and containerized deployments
+- 🌱 I’m constantly exploring **Distributed Systems, Caching (Redis), and Resilience Patterns**
+- 👯 I’m looking to collaborate on robust **Backend and Full Stack Projects**
+- 💬 Ask me about **Java, Spring Boot, SQL, and System Design**
+- 📫 Reach out to me: **[sumanmeher.dev@gmail.com](mailto:sumanmeher.dev@gmail.com)**
 
+<br/>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/sumanmeher014) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/__.miss.meher.__/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/suman-meher-91a6491b0/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/sumanmeher14) 
+## 💻 Tech Stack
 
-## 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+**Backend & Core**
+<br/>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
+**Databases & Messaging**
+<br/>
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
-# Hacktoberfest 2022
-[![@sumanmeher's Holopin board](https://holopin.me/sumanmeher)](https://holopin.io/@sumanmeher)
+**DevOps & Tools**
+<br/>
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge&logo=Dynatrace&logoColor=white)
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sumanmeher&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sumanmeher&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sumanmeher&theme=dark&hide_border=false)
+<br/>
 
----
-[![](https://visitcount.itsvg.in/api?id=sumanmeher&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sumanmeher&theme=radical&no-frame=true&row=1&column=7&margin-w=15" alt="Trophies" />
+  </a>
+</p>
+
+<br/>
+
+## 🚀 Featured Work
+
+### Popcorn Time (Highly Concurrent Movie Booking Backend)
+
+A scalable RESTful backend system managing complex domains like theatres, movie shows, and user bookings.
+
+- **Concurrency Management:** Solved critical double-booking race conditions during high-traffic checkouts by implementing distributed locking mechanisms using **Redis**.
+- **Asynchronous Processing:** Decoupled email notification workflows from the main thread using **RabbitMQ** message queues, significantly reducing API latency.
+- **Tech:** Java, Spring Boot, PostgreSQL, Redis, RabbitMQ, Spring Security, JWT, Docker
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sumanmeher&show_icons=true&theme=radical&hide_border=true" alt="Suman's GitHub stats" height="192px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumanmeher&theme=radical&hide_border=true" alt="GitHub Streak" height="192px"/>
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumanmeher&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
