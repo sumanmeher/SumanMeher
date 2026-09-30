@@ -62,4 +62,4 @@ A scalable RESTful backend system managing complex domains like theatres, movie 
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sumanmeher&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=sumanmeher&theme=radical&hide_border=true)
